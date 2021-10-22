@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @boooziz
-- 👀 I’m interested in aws cdk 
-- 🌱 I’m currently learning cdk
-- 💞️ I’m looking to collaborate on aws
+- 👋 Hi, I’m @bouaziz
+- 👀 I’m interested in devops, iac, python, aws cdk 
 - 📫 How to reach me 0699391760
 
 <!---
